@@ -1,0 +1,6 @@
+Tutorial:gf:1
+EletricFly:bb:7
+HoldUp:bb:7
+Payday:bb:7
+BroMoment:bb:7
+BruhMoment:bb:7

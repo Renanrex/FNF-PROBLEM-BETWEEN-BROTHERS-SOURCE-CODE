@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="girlfriendyellowlight.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="normal0000" x="0" y="0" width="1513" height="928"/>
+	<SubTexture name="normal0001" x="1515" y="0" width="1513" height="928"/>
+	<SubTexture name="normal0002" x="3030" y="0" width="1513" height="928"/>
+	<SubTexture name="normal0003" x="4545" y="0" width="1513" height="928"/>
+	<SubTexture name="normal0004" x="6060" y="0" width="1513" height="928"/>
+	<SubTexture name="normal0005" x="0" y="930" width="1513" height="928"/>
+	<SubTexture name="normal0006" x="1515" y="930" width="1513" height="928"/>
+	<SubTexture name="normal0007" x="3030" y="930" width="1513" height="928"/>
+	<SubTexture name="normal0008" x="4545" y="930" width="1513" height="928"/>
+	<SubTexture name="normal0009" x="6060" y="930" width="1513" height="928"/>
+	<SubTexture name="normal0010" x="0" y="1860" width="1513" height="928"/>
+	<SubTexture name="normal0011" x="1515" y="1860" width="1513" height="928"/>
+	<SubTexture name="normal0012" x="3030" y="1860" width="1513" height="928"/>
+	<SubTexture name="normal0013" x="4545" y="1860" width="1513" height="928"/>
+	<SubTexture name="normal0014" x="6060" y="1860" width="1513" height="928"/>
+	<SubTexture name="normal0015" x="0" y="2790" width="1513" height="928"/>
+	<SubTexture name="normal0016" x="1515" y="2790" width="1513" height="928"/>
+	<SubTexture name="normal0017" x="3030" y="2790" width="1513" height="928"/>
+	<SubTexture name="normal0018" x="4545" y="2790" width="1513" height="928"/>
+	<SubTexture name="normal0019" x="6060" y="2790" width="1513" height="928"/>
+	<SubTexture name="normal0020" x="0" y="3720" width="1513" height="928"/>
+	<SubTexture name="normal0021" x="1515" y="3720" width="1513" height="928"/>
+	<SubTexture name="normal0022" x="3030" y="3720" width="1513" height="928"/>
+	<SubTexture name="normal0023" x="4545" y="3720" width="1513" height="928"/>
+	<SubTexture name="normal0024" x="6060" y="3720" width="1513" height="928"/>
+	<SubTexture name="normal0025" x="0" y="4650" width="1513" height="928"/>
+	<SubTexture name="normal0026" x="1515" y="4650" width="1513" height="928"/>
+	<SubTexture name="normal0027" x="3030" y="4650" width="1513" height="928"/>
+	<SubTexture name="normal0028" x="4545" y="4650" width="1513" height="928"/>
+	<SubTexture name="normal0029" x="6060" y="4650" width="1513" height="928"/>
+</TextureAtlas>

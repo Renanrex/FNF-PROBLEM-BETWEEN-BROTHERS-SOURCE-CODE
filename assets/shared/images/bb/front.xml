@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="front.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="front0000" x="0" y="0" width="3997" height="2342"/>
+	<SubTexture name="front0001" x="0" y="0" width="3997" height="2342"/>
+	<SubTexture name="front0002" x="3999" y="0" width="3997" height="2342"/>
+	<SubTexture name="front0003" x="3999" y="0" width="3997" height="2342"/>
+	<SubTexture name="front0004" x="0" y="2344" width="3997" height="2342"/>
+	<SubTexture name="front0005" x="0" y="2344" width="3997" height="2342"/>
+	<SubTexture name="front0006" x="3999" y="2344" width="3997" height="2342"/>
+	<SubTexture name="front0007" x="3999" y="2344" width="3997" height="2342"/>
+	<SubTexture name="front0008" x="3999" y="2344" width="3997" height="2342"/>
+	<SubTexture name="front0009" x="3999" y="2344" width="3997" height="2342"/>
+	<SubTexture name="front0010" x="3999" y="2344" width="3997" height="2342"/>
+	<SubTexture name="front0011" x="3999" y="2344" width="3997" height="2342"/>
+	<SubTexture name="front0012" x="3999" y="2344" width="3997" height="2342"/>
+	<SubTexture name="front0013" x="3999" y="2344" width="3997" height="2342"/>
+	<SubTexture name="front0014" x="3999" y="2344" width="3997" height="2342"/>
+	<SubTexture name="front0015" x="3999" y="2344" width="3997" height="2342"/>
+	<SubTexture name="front0016" x="3999" y="2344" width="3997" height="2342"/>
+	<SubTexture name="front0017" x="3999" y="2344" width="3997" height="2342"/>
+	<SubTexture name="front0018" x="3999" y="2344" width="3997" height="2342"/>
+	<SubTexture name="front0019" x="3999" y="2344" width="3997" height="2342"/>
+	<SubTexture name="front0020" x="3999" y="2344" width="3997" height="2342"/>
+	<SubTexture name="front0021" x="3999" y="2344" width="3997" height="2342"/>
+	<SubTexture name="front0022" x="3999" y="2344" width="3997" height="2342"/>
+	<SubTexture name="front0023" x="3999" y="2344" width="3997" height="2342"/>
+	<SubTexture name="front0024" x="3999" y="2344" width="3997" height="2342"/>
+</TextureAtlas>

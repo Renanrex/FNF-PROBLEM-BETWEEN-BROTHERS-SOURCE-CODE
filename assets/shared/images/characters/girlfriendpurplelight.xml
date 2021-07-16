@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="girlfriendpurplelight.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="light0000" x="0" y="0" width="1513" height="1005"/>
+	<SubTexture name="light0001" x="1515" y="0" width="1513" height="1005"/>
+	<SubTexture name="light0002" x="3030" y="0" width="1513" height="1005"/>
+	<SubTexture name="light0003" x="3030" y="0" width="1513" height="1005"/>
+	<SubTexture name="light0004" x="4545" y="0" width="1513" height="1005"/>
+	<SubTexture name="light0005" x="6060" y="0" width="1513" height="1005"/>
+	<SubTexture name="light0006" x="0" y="1007" width="1513" height="1005"/>
+	<SubTexture name="light0007" x="0" y="1007" width="1513" height="1005"/>
+	<SubTexture name="light0008" x="1515" y="1007" width="1513" height="1005"/>
+	<SubTexture name="light0009" x="1515" y="1007" width="1513" height="1005"/>
+	<SubTexture name="light0010" x="3030" y="1007" width="1513" height="1005"/>
+	<SubTexture name="light0011" x="4545" y="1007" width="1513" height="1005"/>
+	<SubTexture name="light0012" x="6060" y="1007" width="1513" height="1005"/>
+	<SubTexture name="light0013" x="0" y="2014" width="1513" height="1005"/>
+	<SubTexture name="light0014" x="0" y="2014" width="1513" height="1005"/>
+	<SubTexture name="light0015" x="1515" y="2014" width="1513" height="1005"/>
+	<SubTexture name="light0016" x="1515" y="2014" width="1513" height="1005"/>
+	<SubTexture name="light0017" x="3030" y="2014" width="1513" height="1005"/>
+	<SubTexture name="light0018" x="3030" y="2014" width="1513" height="1005"/>
+	<SubTexture name="light0019" x="4545" y="0" width="1513" height="1005"/>
+	<SubTexture name="light0020" x="6060" y="0" width="1513" height="1005"/>
+	<SubTexture name="light0021" x="0" y="1007" width="1513" height="1005"/>
+	<SubTexture name="light0022" x="0" y="1007" width="1513" height="1005"/>
+	<SubTexture name="light0023" x="1515" y="1007" width="1513" height="1005"/>
+	<SubTexture name="light0024" x="1515" y="1007" width="1513" height="1005"/>
+	<SubTexture name="light0025" x="3030" y="1007" width="1513" height="1005"/>
+	<SubTexture name="light0026" x="4545" y="1007" width="1513" height="1005"/>
+	<SubTexture name="light0027" x="6060" y="1007" width="1513" height="1005"/>
+	<SubTexture name="light0028" x="0" y="2014" width="1513" height="1005"/>
+	<SubTexture name="light0029" x="0" y="2014" width="1513" height="1005"/>
+	<SubTexture name="normal0000" x="4545" y="2014" width="1513" height="928"/>
+	<SubTexture name="normal0001" x="6060" y="2014" width="1513" height="928"/>
+	<SubTexture name="normal0002" x="0" y="3021" width="1513" height="928"/>
+	<SubTexture name="normal0003" x="1515" y="3021" width="1513" height="928"/>
+	<SubTexture name="normal0004" x="3030" y="3021" width="1513" height="928"/>
+	<SubTexture name="normal0005" x="4545" y="3021" width="1513" height="928"/>
+	<SubTexture name="normal0006" x="6060" y="3021" width="1513" height="928"/>
+	<SubTexture name="normal0007" x="0" y="3951" width="1513" height="928"/>
+	<SubTexture name="normal0008" x="1515" y="3951" width="1513" height="928"/>
+	<SubTexture name="normal0009" x="1515" y="3951" width="1513" height="928"/>
+	<SubTexture name="normal0010" x="3030" y="3951" width="1513" height="928"/>
+	<SubTexture name="normal0011" x="4545" y="3951" width="1513" height="928"/>
+	<SubTexture name="normal0012" x="6060" y="3951" width="1513" height="928"/>
+	<SubTexture name="normal0013" x="0" y="4881" width="1513" height="928"/>
+	<SubTexture name="normal0014" x="0" y="4881" width="1513" height="928"/>
+	<SubTexture name="normal0015" x="1515" y="4881" width="1513" height="928"/>
+	<SubTexture name="normal0016" x="3030" y="4881" width="1513" height="928"/>
+	<SubTexture name="normal0017" x="4545" y="4881" width="1513" height="928"/>
+	<SubTexture name="normal0018" x="6060" y="4881" width="1513" height="928"/>
+	<SubTexture name="normal0019" x="0" y="5811" width="1513" height="928"/>
+	<SubTexture name="normal0020" x="1515" y="5811" width="1513" height="928"/>
+	<SubTexture name="normal0021" x="3030" y="5811" width="1513" height="928"/>
+	<SubTexture name="normal0022" x="4545" y="5811" width="1513" height="928"/>
+	<SubTexture name="normal0023" x="6060" y="5811" width="1513" height="928"/>
+	<SubTexture name="normal0024" x="6060" y="5811" width="1513" height="928"/>
+	<SubTexture name="normal0025" x="0" y="6741" width="1513" height="928"/>
+	<SubTexture name="normal0026" x="1515" y="6741" width="1513" height="928"/>
+	<SubTexture name="normal0027" x="3030" y="6741" width="1513" height="928"/>
+	<SubTexture name="normal0028" x="4545" y="6741" width="1513" height="928"/>
+	<SubTexture name="normal0029" x="4545" y="6741" width="1513" height="928"/>
+</TextureAtlas>

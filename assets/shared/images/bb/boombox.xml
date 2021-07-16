@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TUTSTATS.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RADIOBEAT0000" x="0" y="0" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0001" x="0" y="0" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0002" x="199" y="0" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0003" x="199" y="0" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0004" x="0" y="116" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0005" x="0" y="116" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0006" x="0" y="116" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0007" x="0" y="116" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0008" x="0" y="116" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0009" x="0" y="116" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0010" x="0" y="116" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0011" x="0" y="116" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0012" x="0" y="116" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0013" x="0" y="116" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0014" x="0" y="116" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0015" x="0" y="0" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0016" x="0" y="0" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0017" x="199" y="0" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0018" x="199" y="0" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0019" x="0" y="116" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0020" x="0" y="116" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0021" x="0" y="116" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0022" x="0" y="116" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0023" x="0" y="116" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0024" x="0" y="116" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0025" x="0" y="116" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0026" x="0" y="116" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0027" x="0" y="116" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0028" x="0" y="116" width="197" height="114"/>
+	<SubTexture name="RADIOBEAT0029" x="0" y="116" width="197" height="114"/>
+</TextureAtlas>
